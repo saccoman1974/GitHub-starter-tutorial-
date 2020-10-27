@@ -1,4 +1,4 @@
-# hello-world
+# GitHub first use
 learn to use github
 this is me learning git hub commits branching.
 
